@@ -11,4 +11,8 @@
 7. git clone "link https://...."
 8. git status
 9. ls -la
-10. ... 
+10. Membuat direktory - mkdir nama_direktory
+11. Membuat file README.md - touch README.md
+12. Membuat file lainnya index.html - touch index.html
+
+
